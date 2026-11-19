@@ -1,0 +1,9 @@
+data/*.csv
+data/*.json
+outputs/
+*/outputs/
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+model_comparison.png
+.DS_Store
